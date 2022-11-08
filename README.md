@@ -18,5 +18,6 @@
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whitehttps://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
-![Snake animation](https://github.com/tycos84/tyycos84/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/tycos84/tycos84/blob/output/github-contribution-grid-snake.svg)
+ </div>
