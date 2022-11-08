@@ -22,5 +22,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
  <img align="center" alt="Mario" src="https://media.tenor.com/0JqgDg_WXrIAAAAj/dan%C3%A7a-mario.gif" />
 <img align="center" alt="Mario" src="https://media.tenor.com/ECoxfxlj0FYAAAAj/luigi-mario-party.gif" />
+
 ![snake gif](https://github.com/tycos84/tycos84/blob/output/github-contribution-grid-snake.svg)
  </div>
