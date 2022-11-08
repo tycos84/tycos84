@@ -8,7 +8,7 @@
 
 ![Tycos84 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tycos84&show_icons=true&theme=radical)
 
-## 𝕯𝖊𝖘𝖊𝖓𝖛𝖔𝖑𝖛𝖊𝖉𝖔𝖗 𝖉𝖊 𝕿𝖊𝖈𝖓𝖔𝖑𝖔𝖌𝖎𝖆𝖘 𝕱𝖚𝖑𝖑-𝕾𝖙𝖆𝖈𝖐 !
+### 𝕯𝖊𝖘𝖊𝖓𝖛𝖔𝖑𝖛𝖊𝖉𝖔𝖗 𝖉𝖊 𝕿𝖊𝖈𝖓𝖔𝖑𝖔𝖌𝖎𝖆𝖘 𝕱𝖚𝖑𝖑-𝕾𝖙𝖆𝖈𝖐 !
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,4 +19,3 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whitehttps://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
- 
