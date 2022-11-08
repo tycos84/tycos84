@@ -12,8 +12,8 @@
 
 
 ### 𝕯𝖊𝖘𝖊𝖓𝖛𝖔𝖑𝖛𝖊𝖉𝖔𝖗 𝕱𝖚𝖑𝖑-𝕾𝖙𝖆𝖈𝖐 !
-<img align="center" alt="Mario" src="https://media.tenor.com/0JqgDg_WXrIAAAAj/dan%C3%A7a-mario.gif" />
-<img align="center" alt="Mario" src="https://media.tenor.com/ECoxfxlj0FYAAAAj/luigi-mario-party.gif" />
+<img align="center" alt="Mario" src="https://media.tenor.com/0JqgDg_WXrIAAAAj/dan%C3%A7a-mario.gif" /> <img align="center" alt="Mario" src="https://media.tenor.com/ECoxfxlj0FYAAAAj/luigi-mario-party.gif" />
+
 <div style="display: inline_block"><br/>
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
